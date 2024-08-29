@@ -50,3 +50,7 @@ This EDA provided valuable insights into customer behavior, revealing significan
 1. **Clone the repository** to your local machine:
    ```bash
    git clone <https://github.com/Himanshu-29-10/Customer-Behavior-EDA/edit/main/README.md>
+
+2. **Run this command on command prompt(cmd)** to your local machine
+    pip install -r requirements.txt
+
